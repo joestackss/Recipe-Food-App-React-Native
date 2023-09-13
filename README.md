@@ -4,7 +4,7 @@
 
   
   <p align="left">
-    <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+    <a href="https://www.youtube.com/@TechRatedDev"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
     <p>
       Watch the Tutorial on YouTube <a href="https://youtube.com" target="_blank">Food Cafe - A Food Mobile App built using React Native, TailwindCSS, NativeWind, React Native Reanimated</a>
     </p>
