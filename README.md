@@ -1,10 +1,11 @@
 # Food-Cafe-A-Food-Mobile-App-React-Native
 
-<img src="https://dribbble.com/shots/22542632-Historical-App-UI"  />
+![Image](https://cdn.dribbble.com/userupload/10353143/file/original-4c248bc6d108e0c94310d8c0496263b2.png?resize=1200x675)
+
 
   
   <p align="left">
-    <a href="https://www.youtube.com/@TechRatedDev"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+    <a href="https://www.youtube.com/channel/UCuJNJfjUo2i4c6n09hZTlBQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
     <p>
       Watch the Tutorial on YouTube <a href="https://youtube.com" target="_blank">Food Cafe - A Food Mobile App built using React Native, TailwindCSS, NativeWind, React Native Reanimated</a>
     </p>
